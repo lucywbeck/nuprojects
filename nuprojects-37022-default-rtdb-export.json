@@ -1,0 +1,459 @@
+{
+  "jobs": {
+    "0ef07246-1064-445b-b7b5-22a7e120b75b": {
+      "contactInfo": "patrickhoey2024@u.northwestern.edu",
+      "datePosted": "2023-01-29",
+      "dateToSubmit": "2023-02-15",
+      "description": "I need someone to create an application that will aggregate all of my ios widgets into one side-monitor. So, on my desk, I can have a monitor that is always on and will show all of my ios widgets at all times (weather, gmail, bleacher report, music, etc.)",
+      "hashtags": [
+        "#WebDevelopment"
+      ],
+      "jobId": "0ef07246-1064-445b-b7b5-22a7e120b75b",
+      "numberOfPeople": "2",
+      "positionName": "IOS Developer",
+      "projectEndDate": "2023-06-15",
+      "projectName": "iDock",
+      "projectStartDate": "2023-01-29",
+      "skillsRequired": [
+        "HTML/CSS"
+      ],
+      "typeOfProject": "Full-time",
+      "user": "",
+      "wage": "5"
+    },
+    "3c69619b-ef52-46b8-bb06-89aae04f3fc7": {
+      "contactInfo": "johncao2022@u.northwestern.edu",
+      "datePosted": "2023-01-28",
+      "dateToSubmit": "2023-01-29",
+      "description": "Build a market making algorithm for trading",
+      "hashtags": [
+        "#ML/AI"
+      ],
+      "jobId": "3c69619b-ef52-46b8-bb06-89aae04f3fc7",
+      "numberOfPeople": "1",
+      "positionName": "Algo Developer",
+      "projectEndDate": "2023-07-23",
+      "projectName": "Trading App",
+      "projectStartDate": "2023-02-06",
+      "skillsRequired": [
+        "C++",
+        "Python",
+        "SQL"
+      ],
+      "typeOfProject": "Full-time",
+      "user": "",
+      "wage": "100"
+    },
+    "5b3d9407-ce60-4148-b022-e92775bbcc14": {
+      "contactInfo": "lucybeck2024@u.northwestern.edu",
+      "datePosted": "2023-03-21",
+      "dateToSubmit": "2023-03-25",
+      "description": "An app to help students plan their schedules!",
+      "hashtags": [
+        "#WebDevelopment"
+      ],
+      "jobId": "5b3d9407-ce60-4148-b022-e92775bbcc14",
+      "numberOfPeople": "4",
+      "positionName": "Front-End Developer",
+      "projectEndDate": "2023-05-27",
+      "projectName": "Student Planner",
+      "projectStartDate": "2023-04-01",
+      "skillsRequired": [
+        "HTML/CSS",
+        "JavaScript"
+      ],
+      "typeOfProject": "Part-time",
+      "user": "",
+      "wage": "20"
+    },
+    "6068cf4a-2f86-4c2d-8c7a-f24491caa30a": {
+      "contactInfo": "kellymei2024@u.northwestern.edu",
+      "datePosted": "2023-01-30",
+      "dateToSubmit": "2023-01-29",
+      "description": "Looking for a front end developer who knows HTML/CSS/JS to build a website to sell and trade old textbooks! ",
+      "hashtags": [
+        "#WebDevelopment"
+      ],
+      "jobId": "6068cf4a-2f86-4c2d-8c7a-f24491caa30a",
+      "numberOfPeople": "4",
+      "positionName": "Front End Developer",
+      "projectEndDate": "2023-04-10",
+      "projectName": "NU Textbook Sell/Trade",
+      "projectStartDate": "2023-02-06",
+      "skillsRequired": [
+        "HTML/CSS"
+      ],
+      "typeOfProject": "Part-time",
+      "user": "",
+      "wage": "22"
+    },
+    "9c47cfce-f7c3-4cb3-a52e-7cc40a622d5c": {
+      "contactInfo": "chibuonyenemezu2023@u.northwestern.edu",
+      "datePosted": "2023-01-30",
+      "dateToSubmit": "2023-03-17",
+      "description": "Watch me at home and take notes.",
+      "hashtags": [
+        "#WebDevelopment"
+      ],
+      "jobId": "9c47cfce-f7c3-4cb3-a52e-7cc40a622d5c",
+      "numberOfPeople": "3",
+      "positionName": "Data Scientist",
+      "projectEndDate": "2023-11-29",
+      "projectName": "Homebody",
+      "projectStartDate": "2023-05-16",
+      "skillsRequired": [
+        "Git",
+        "Python",
+        "SQL"
+      ],
+      "typeOfProject": "Full-time",
+      "user": "",
+      "wage": "400"
+    },
+    "a5ab7640-23d6-407e-bd2e-fd53f728586c": {
+      "contactInfo": "lucybeck2024@u.northwestern.edu",
+      "datePosted": "2023-03-21",
+      "dateToSubmit": "2023-03-25",
+      "description": "An AI app that writes for you!",
+      "hashtags": [
+        "#WebDevelopment"
+      ],
+      "jobId": "a5ab7640-23d6-407e-bd2e-fd53f728586c",
+      "numberOfPeople": "4",
+      "positionName": "Front-End Developer",
+      "projectEndDate": "2023-05-27",
+      "projectName": "AI Writer",
+      "projectStartDate": "2023-04-01",
+      "skillsRequired": [
+        "HTML/CSS",
+        "JavaScript"
+      ],
+      "typeOfProject": "Part-time",
+      "user": "",
+      "wage": "20"
+    },
+    "bdea8cb0-b03a-4a45-a386-2a6e1a3d262e": {
+      "contactInfo": "robbytunick2023@u.northwestern.edu",
+      "datePosted": "2023-01-30",
+      "dateToSubmit": "2023-01-31",
+      "description": "Volunteer that knows HTML/CSS and JavaScript",
+      "hashtags": [
+        "#WebDevelopment"
+      ],
+      "jobId": "bdea8cb0-b03a-4a45-a386-2a6e1a3d262e",
+      "numberOfPeople": "1",
+      "positionName": "Computer Scientist",
+      "projectEndDate": "2023-07-31",
+      "projectName": "Cooking Wesbite",
+      "projectStartDate": "2023-02-21",
+      "skillsRequired": [
+        "HTML/CSS"
+      ],
+      "typeOfProject": "Part-time",
+      "user": "",
+      "wage": "1010101010"
+    }
+  },
+  "skills": [
+    "python",
+    "c++"
+  ],
+  "users": {
+    "6kfb4pKnEuWRjCZRwfNcP79hNyF3": {
+      "email": "johnchen2024@u.northwestern.edu",
+      "jobsApplied": [
+        "6068cf4a-2f86-4c2d-8c7a-f24491caa30a"
+      ],
+      "jobsSaved": [
+        "6068cf4a-2f86-4c2d-8c7a-f24491caa30a"
+      ],
+      "name": "John Chen",
+      "profilePic": "https://lh3.googleusercontent.com/a/AEdFTp572ab851pcGl4Spu_99TMfEKoJVzSzzwJKQIQZ=s96-c",
+      "userId": "6kfb4pKnEuWRjCZRwfNcP79hNyF3"
+    },
+    "6tq8Z4X7hWN9DTHQuuGKkt6l6Lw1": {
+      "email": "patrickhoey2024@u.northwestern.edu",
+      "jobsApplied": [
+        "41052ce9-26fd-4541-a855-d205dd0f79dc",
+        "e9f1ae89-58d1-4e1b-a407-ed7fffcb864a"
+      ],
+      "jobsSaved": [
+        "e9f1ae89-58d1-4e1b-a407-ed7fffcb864a",
+        "d152b69d-e153-4b8c-b28c-0a1bdf201f29"
+      ],
+      "name": "Patrick Hoey",
+      "profilePic": "https://lh3.googleusercontent.com/a/AEdFTp5y7koyX6gNUzCxYl9gGXJ84BHopXVxKt9TzXbF=s96-c",
+      "userId": "6tq8Z4X7hWN9DTHQuuGKkt6l6Lw1"
+    },
+    "7fSFgiz5wlMlyN9kD64gVBSSseu2": {
+      "email": "",
+      "name": "John",
+      "userId": "7fSFgiz5wlMlyN9kD64gVBSSseu2"
+    },
+    "CAwlRUO1wWQd2HeD4yleMYGDH8E2": {
+      "email": "lucybeck2024@u.northwestern.edu",
+      "jobsApplied": [
+        "6068cf4a-2f86-4c2d-8c7a-f24491caa30a"
+      ],
+      "jobsSaved": [
+        "6068cf4a-2f86-4c2d-8c7a-f24491caa30a",
+        "a5ab7640-23d6-407e-bd2e-fd53f728586c"
+      ],
+      "name": "Lucy Beck",
+      "profilePic": "https://lh3.googleusercontent.com/a/AEdFTp66VHmgpOqx96O5yQWU39zYQFCzbz_EUBh2cawX=s96-c",
+      "userId": "CAwlRUO1wWQd2HeD4yleMYGDH8E2"
+    },
+    "FRHkJ8wznTVg8wnwJ0wLEMUbcxq2": {
+      "email": "je-wooim2024@u.northwestern.edu",
+      "name": "Je-Woo Im",
+      "profilePic": "https://lh3.googleusercontent.com/a/AEdFTp4EXn-Qp4Ru-IIOIBaroANccdvIfPPvqlkbb1-m=s96-c",
+      "userId": "FRHkJ8wznTVg8wnwJ0wLEMUbcxq2"
+    },
+    "FSlWIof6oBSI2m1f413KiCDyBHv2": {
+      "email": "jiajuyu2024@u.northwestern.edu",
+      "name": "Jiaju Yu",
+      "profilePic": "https://lh3.googleusercontent.com/a/AEdFTp5reCYkGTA3TlcKoTWE5tW64EVmYDTZfdOjlKbk=s96-c",
+      "userId": "FSlWIof6oBSI2m1f413KiCDyBHv2"
+    },
+    "IQ1hjex4sHhq46QWnenCaBlgqz43": {
+      "email": "timhuynh2024@u.northwestern.edu",
+      "name": "Tim Huynh",
+      "profilePic": "https://lh3.googleusercontent.com/a/AEdFTp4yqJOeJllv7LMVX1tBlh3r8-nxwdgMmZhE2XCC=s96-c",
+      "userId": "IQ1hjex4sHhq46QWnenCaBlgqz43"
+    },
+    "J9TOp9Jc19QeKjnHtlfH1ohMLIz2": {
+      "email": "karthiksubramanian2024@u.northwestern.edu",
+      "jobsApplied": [
+        "97ddb82d-859b-4c0c-8fe8-36ae02fc72ac",
+        "35525da5-f5fa-4744-a10f-b338e0f9db4d",
+        "41052ce9-26fd-4541-a855-d205dd0f79dc",
+        "d152b69d-e153-4b8c-b28c-0a1bdf201f29",
+        "466f1797-46a5-46df-b775-7ac4fee51a31"
+      ],
+      "jobsSaved": [
+        "5ff1740b-e76f-460f-be17-3d3113c80c06",
+        "97ddb82d-859b-4c0c-8fe8-36ae02fc72ac",
+        "ebb4d50e-a7e2-412c-8736-57d31e6aa8dc",
+        "35525da5-f5fa-4744-a10f-b338e0f9db4d",
+        "895d362b-64ef-4de6-bf17-d8b6aab074ac",
+        "41052ce9-26fd-4541-a855-d205dd0f79dc",
+        "466f1797-46a5-46df-b775-7ac4fee51a31"
+      ],
+      "name": "Karthik Subramanian",
+      "profilePic": "https://lh3.googleusercontent.com/a/AEdFTp58_J1tUeRrNHhLGgKTmlLZdkCclFQ2qfXttOpZ=s96-c",
+      "userId": "J9TOp9Jc19QeKjnHtlfH1ohMLIz2"
+    },
+    "L4xLZKwQvqfzp7wdJCUu3i43EN93": {
+      "email": "sengdaointhavong2024@u.northwestern.edu",
+      "jobsApplied": [
+        "d152b69d-e153-4b8c-b28c-0a1bdf201f29",
+        "41052ce9-26fd-4541-a855-d205dd0f79dc",
+        "d152b69d-e153-4b8c-b28c-0a1bdf201f29"
+      ],
+      "name": "Sengdao Inthavong",
+      "profilePic": "https://lh3.googleusercontent.com/a/AEdFTp4hN3HdstqhmoOM8TsqMOVnQfAjk3MIZU-puRyd=s96-c",
+      "userId": "L4xLZKwQvqfzp7wdJCUu3i43EN93"
+    },
+    "NmzWHGtPs1Wdxs0n2VZhBNk8z193": {
+      "email": "aidenatoy@gmail.com",
+      "jobsApplied": [
+        "d152b69d-e153-4b8c-b28c-0a1bdf201f29"
+      ],
+      "jobsSaved": [
+        "d152b69d-e153-4b8c-b28c-0a1bdf201f29"
+      ],
+      "name": "Aiden Atoy",
+      "profilePic": "https://lh3.googleusercontent.com/a/AEdFTp7PtFiFzlYBb_StFe-5rtOf_uruV9oJVVSJZma0=s96-c",
+      "userId": "NmzWHGtPs1Wdxs0n2VZhBNk8z193"
+    },
+    "Ns4AzjQrVQg4mQvkRvhG1ZCz19f2": {
+      "email": "chibuonyenemezu2023@u.northwestern.edu",
+      "jobsApplied": [
+        "d152b69d-e153-4b8c-b28c-0a1bdf201f29",
+        "c3f924c2-2b1e-444a-979d-5ac03333e05d"
+      ],
+      "jobsSaved": [
+        "d152b69d-e153-4b8c-b28c-0a1bdf201f29",
+        "3c69619b-ef52-46b8-bb06-89aae04f3fc7"
+      ],
+      "name": "Chibueze Onyenemezu",
+      "profilePic": "https://lh3.googleusercontent.com/a/AEdFTp7jAnM-8mQjuLRRNWZUGs6AJm7sfoIkZHWCJj9x=s96-c",
+      "userId": "Ns4AzjQrVQg4mQvkRvhG1ZCz19f2"
+    },
+    "PzmOZWlxyLPq5d7BbRuitYESR8I2": {
+      "email": "karsub23@gmail.com",
+      "name": "Karthik Subramanian",
+      "profilePic": "https://lh3.googleusercontent.com/a/AEdFTp6B4VZunqjFzEl51pXpZkBJl_So-m_75VTKefpy=s96-c",
+      "userId": "PzmOZWlxyLPq5d7BbRuitYESR8I2"
+    },
+    "RNNgbffL51SUn1umy1SliVMdd1B3": {
+      "email": "tudroid.tn@gmail.com",
+      "jobsApplied": [
+        "5ff1740b-e76f-460f-be17-3d3113c80c06",
+        "41052ce9-26fd-4541-a855-d205dd0f79dc",
+        "41052ce9-26fd-4541-a855-d205dd0f79dc"
+      ],
+      "jobsSaved": [
+        "41052ce9-26fd-4541-a855-d205dd0f79dc"
+      ],
+      "name": "Aziz Jalel",
+      "profilePic": "https://lh3.googleusercontent.com/a/AEdFTp4T9sDy2nUyWIwOT7G3JxArs5rLuqWngssD0N-wuA=s96-c",
+      "userId": "RNNgbffL51SUn1umy1SliVMdd1B3"
+    },
+    "XQ1h5m8BFpUsVBpkelChaQWtKb63": {
+      "email": "notfoursquared@gmail.com",
+      "jobsApplied": [
+        "41052ce9-26fd-4541-a855-d205dd0f79dc"
+      ],
+      "name": "sheet18",
+      "profilePic": "https://lh3.googleusercontent.com/a/AEdFTp7WAvUPNIOEgC_ep1yKe5yyuo1Lx3uQdMZYmU6Gtg=s96-c",
+      "userId": "XQ1h5m8BFpUsVBpkelChaQWtKb63"
+    },
+    "ZZ31NCmk2mWD3f81Of7LUWzSoEm1": {
+      "email": "kellymei2024@u.northwestern.edu",
+      "jobsApplied": [
+        "0ef07246-1064-445b-b7b5-22a7e120b75b"
+      ],
+      "jobsSaved": [
+        "0ef07246-1064-445b-b7b5-22a7e120b75b"
+      ],
+      "name": "Kelly Mei",
+      "profilePic": "https://lh3.googleusercontent.com/a/AEdFTp6lQU385vh6N2hN1X7mGMnip74OrEIeaiJrnwkc=s96-c",
+      "userId": "ZZ31NCmk2mWD3f81Of7LUWzSoEm1"
+    },
+    "m2ciKGCrkQMmKvfrr3BTcudMcd23": {
+      "email": "timhuynh0905@gmail.com",
+      "jobsApplied": [
+        "6e89b312-aeb7-4036-ac0a-1569a2cbe89b",
+        "41052ce9-26fd-4541-a855-d205dd0f79dc"
+      ],
+      "jobsSaved": [
+        "35525da5-f5fa-4744-a10f-b338e0f9db4d"
+      ],
+      "name": "Tim Huynh",
+      "profilePic": "https://lh3.googleusercontent.com/a/AEdFTp6Vj1lJxS91jUC__pleJxvFsjZ4hOzvM2xA-IrPRA=s96-c",
+      "userId": "m2ciKGCrkQMmKvfrr3BTcudMcd23"
+    },
+    "rWNYxHND0pXSW5QNI38UtVPR69n1": {
+      "email": "johncao2022@u.northwestern.edu",
+      "jobsApplied": [
+        "d152b69d-e153-4b8c-b28c-0a1bdf201f29"
+      ],
+      "jobsSaved": [
+        "d152b69d-e153-4b8c-b28c-0a1bdf201f29"
+      ],
+      "name": "John Cao",
+      "profilePic": "https://lh3.googleusercontent.com/a/AEdFTp5VAm91_RyXPXE2twCFkp-XQ3LqHJg_gBaxTHDf=s96-c",
+      "userId": "rWNYxHND0pXSW5QNI38UtVPR69n1"
+    },
+    "sV1ueJjRFgUpqkfkYwDXEEKTcfO2": {
+      "email": "robbytunick2023@u.northwestern.edu",
+      "jobsApplied": [
+        "d152b69d-e153-4b8c-b28c-0a1bdf201f29",
+        "e9f1ae89-58d1-4e1b-a407-ed7fffcb864a",
+        "466f1797-46a5-46df-b775-7ac4fee51a31"
+      ],
+      "jobsSaved": [
+        "d152b69d-e153-4b8c-b28c-0a1bdf201f29"
+      ],
+      "name": "Robby Tunick",
+      "profilePic": "https://lh3.googleusercontent.com/a/AEdFTp5RE00VhmADTuPps5az_ofdp2W0o4TnCUpb2zP-=s96-c",
+      "userId": "sV1ueJjRFgUpqkfkYwDXEEKTcfO2"
+    },
+    "undefined": {
+      "jobsApplied": [
+        "41052ce9-26fd-4541-a855-d205dd0f79dc"
+      ]
+    },
+    "user1": {
+      "age": 30,
+      "email": "john@example.com",
+      "jobsApplied": [
+        "Job 1",
+        "Job 2"
+      ],
+      "name": "John"
+    },
+    "user10": {
+      "age": 31,
+      "email": "victor@example.com",
+      "jobsApplied": [
+        "Job 19",
+        "Job 20"
+      ],
+      "name": "Victor"
+    },
+    "user2": {
+      "age": 25,
+      "email": "jane@example.com",
+      "jobsApplied": [
+        "Job 3",
+        "Job 4"
+      ],
+      "name": "Jane"
+    },
+    "user3": {
+      "age": 35,
+      "email": "bob@example.com",
+      "jobsApplied": [
+        "Job 5",
+        "Job 6"
+      ],
+      "name": "Bob"
+    },
+    "user4": {
+      "age": 28,
+      "email": "alice@example.com",
+      "jobsApplied": [
+        "Job 7",
+        "Job 8"
+      ],
+      "name": "Alice"
+    },
+    "user5": {
+      "age": 32,
+      "email": "charlie@example.com",
+      "jobsApplied": [
+        "Job 9",
+        "Job 10"
+      ],
+      "name": "Charlie"
+    },
+    "user6": {
+      "age": 29,
+      "email": "eve@example.com",
+      "jobsApplied": [
+        "Job 11",
+        "Job 12"
+      ],
+      "name": "Eve"
+    },
+    "user7": {
+      "age": 27,
+      "email": "mallory@example.com",
+      "jobsApplied": [
+        "Job 13",
+        "Job 14"
+      ],
+      "name": "Mallory"
+    },
+    "user8": {
+      "age": 33,
+      "email": "oscar@example.com",
+      "jobsApplied": [
+        "Job 15",
+        "Job 16"
+      ],
+      "name": "Oscar"
+    },
+    "user9": {
+      "age": 26,
+      "email": "peggy@example.com",
+      "jobsApplied": [
+        "Job 17",
+        "Job 18"
+      ],
+      "name": "Peggy"
+    }
+  }
+}
