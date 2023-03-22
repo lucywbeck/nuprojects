@@ -1,0 +1,50 @@
+.job-card {
+  /* margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-top: 15px;
+    margin-bottom: 15px; */
+  text-align: left;
+}
+
+.selectOptions {
+  font-size: small;
+  color: aqua;
+}
+
+.job-card Button {
+  background-color: blueviolet;
+  border: none;
+  margin-top: 10px;
+}
+
+.job-card Button:hover,
+.job-card Button:focus {
+  background-color: blueviolet;
+  filter: brightness(85%);
+}
+
+.skills {
+  display: flex;
+  gap: 0.4rem;
+  padding: 0;
+  flex-wrap: wrap;
+}
+
+.skill {
+  justify-content: space-evenly;
+  list-style: none;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid gray;
+  border-radius: 1000px;
+}
+
+/* .hashtags {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.hashtags li {
+  padding-right: 7.5px;
+} */

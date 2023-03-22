@@ -1,0 +1,23 @@
+.card-page {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.search-area form .row {
+  width: 100%;
+  margin: 0;
+}
+@media (max-width: 576px) {
+  .row {
+    gap: 15px;
+  }
+}
+
+.search-area .filter-multi-select {
+  width: 100% !important;
+}
+
+.search-area .filter-multi-select .filter-option {
+  color: white;
+}

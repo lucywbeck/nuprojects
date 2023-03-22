@@ -1,0 +1,19 @@
+.search-button {
+  background-color: blueviolet;
+  border: none;
+  color: white;
+}
+
+.filter-button {
+  margin-left: 5px;
+}
+
+.auth-buttons {
+  flex-direction: row;
+}
+
+.nav-dropdown .dropdown-menu {
+  top: 100%;
+  right: 0;
+  left: auto;
+}

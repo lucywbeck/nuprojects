@@ -1,0 +1,23 @@
+.modal-dialog {
+    min-width: 50%;
+  }
+  
+  .add-modal-footer {
+    justify-content: flex-end !important;
+  }
+  
+  .skills {
+    display: flex;
+    gap: 0.4rem;
+    padding: 0;
+    flex-wrap: wrap;
+  }
+  
+  .skill {
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 0.5rem 0.75rem;
+    border: 1px solid gray;
+    border-radius: 1000px;
+  }
+  
